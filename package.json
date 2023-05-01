@@ -7,6 +7,7 @@
   "types": "dist/esm/index.d.ts",
   "unpkg": "dist/plugin.js",
   "files": [
+    "src/",
     "dist/",
     "ios/Plugin/",
     "CapacitorWidgetsbridgePlugin.podspec"
